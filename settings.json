@@ -1,0 +1,12 @@
+{
+    "Lua.diagnostics.globals": [
+        "Config",
+        "vector3",
+        "Citizen",
+        "startNPC"
+    ],
+    "Lua.diagnostics.disable": [
+        "lowercase-global",
+        "undefined-global"
+    ]
+}
